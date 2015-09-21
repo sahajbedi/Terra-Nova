@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Terra Nova</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_location">LocationActivity</string>
+    <string name="title_activity_notification_receiver">Notification Receiver</string>
+    <string name="user_number">Your Number</string>
+    <string name="emergency_contact_number">Emergency Contact Number</string>
+    <string name="submit">Submit</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="are_you_safe">Are you safe</string>
+    <string name="parse_application_id">OQuMQK2A3QZV8BA1hRxdU3XgyG9RrbilA1HiGUU1</string>
+    <string name="parse_client_key">hNXwKdLroIHbc3uK5zJFkfO6peEFxjrzufzRxzHt</string>
+    <string name="parse_channel">Giants</string>
+</resources>
